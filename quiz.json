@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your fitness knowledge with this quiz.",
+  "questions": [
+    {
+      "question": "What is BMI?",
+      "answers": ["Index", "Rate", "Level"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Main leg muscle?",
+      "answers": ["Quad", "Bicep", "Tricep"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Core workout?",
+      "answers": ["Plank", "Squat", "Bench"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Cardio exercise?",
+      "answers": ["Run", "Lift", "Flex"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Stretching type?",
+      "answers": ["Static", "Sprint", "Pull"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Protein source?",
+      "answers": ["Eggs", "Sugar", "Salt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "HIIT stands for?",
+      "answers": ["Interval", "Intensity", "Duration"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Strength workout?",
+      "answers": ["Lift", "Run", "Bike"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Yoga pose?",
+      "answers": ["Tree", "Run", "Jump"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Hydration needs?",
+      "answers": ["Water", "Soda", "Juice"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Essential nutrient?",
+      "answers": ["Fiber", "Sugar", "Caffeine"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Common warm-up?",
+      "answers": ["Jog", "Sit", "Sleep"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Calisthenics?",
+      "answers": ["Body", "Weight", "Mass"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Muscle recovery?",
+      "answers": ["Rest", "Run", "Lift"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Energy booster?",
+      "answers": ["Food", "Sleep", "Sit"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Post-workout?",
+      "answers": ["Cool", "Sprint", "Flex"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Pilates target?",
+      "answers": ["Core", "Bicep", "Quad"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Flexibility?",
+      "answers": ["Stretch", "Lift", "Run"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "CrossFit move?",
+      "answers": ["Snatch", "Jog", "Sleep"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Healthy fat?",
+      "answers": ["Avocado", "Candy", "Chips"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
